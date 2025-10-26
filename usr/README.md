@@ -1,6 +1,6 @@
-# couldai_user_app
+# kyssem_signers
 
-A new Flutter project.
+A new Flutter project for Kyssem Signers.
 
 ## Getting Started
 
